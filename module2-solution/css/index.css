@@ -49,6 +49,10 @@ p {
   .col-md-2 {
     width: 50.0%;
   }
+  .col-md-3 {
+    width: 300%;
+  }
+
 }
 
 @media (max-width: 767px) {
