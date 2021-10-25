@@ -36,34 +36,34 @@ p {
 }
 
 @media.2 (min-width: 768px) and (max-width: 991px) {
-  .col-lg-1, .col-lg-2, .col-lg-3 {
+  .col-md-1, .col-md-2, .col-md-3 {
     float: left;
     border: 1px solid green;
   }
-  .col-lg-1 {
+  .col-md-1 {
     width: 33.33%;
   }
-  .col-lg-2 {
+  .col-md-2 {
     width: 66.66%;
   }
-  .col-lg-3 {
+  .col-md-3 {
     width: 100%;
   }
 
 }
 
 @media.3 (max-width: 767px) {
-  .col-lg-1, .col-lg-2, .col-lg-3 {
+  .col-sm-1, .col-sm-2, .col-sm-3 {
     float: left;
     border: 1px solid green;
   }
-  .col-lg-1 {
+  .col-sm-1 {
     width: 33.33%;
   }
-  .col-lg-2 {
+  .col-sm-2 {
     width: 66.66%;
   }
-  .col-lg-3 {
+  .col-sm-3 {
     width: 100%;
   }
 
