@@ -15,11 +15,11 @@ p {
   color: white;
 }
 .row {
-  width: 500%;
+  width: 100%;
 }
 
 * {
-  box-sizing: border-box;
+  box-sizing: border-box 100px;
 }
 
 @media (min-width: 992px) {
